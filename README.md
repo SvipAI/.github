@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/SSzzPP/SSzzPP/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/donno2048/donno2048/dist/snake.svg)
