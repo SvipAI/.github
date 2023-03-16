@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/donno2048/donno2048/dist/snake.svg)
+![](https://raw.githubusercontent.com/SSzzPP/SSzzPP/dist/snake.svg)
